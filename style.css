@@ -476,8 +476,10 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 48px!important;
     color: #503737!important;
+    min-width: 48px;
+    min-height: 48px;
 }
 
 .icon-lg {
@@ -512,8 +514,8 @@ button {
 }
 
 .scrollToTop {
-    width: 40px;
-    height: 40px;
+    width: 48px;
+    height: 48px;
     position: fixed;
     bottom: 20px;
     right: 20px;
@@ -527,7 +529,7 @@ button {
 }
 
 .showScrollTop {
-    font-size: 14px;
+    font-size: 22px;
     opacity: 1;
 }
 
